@@ -39,9 +39,3 @@ python face_recognition.py
 - PCA extracts essential face features with minimal data loss.
 - Future improvements: **Deep Learning (CNNs), LDA for better classification.**
 
-🚀 **Developed by Krishna Garg**
-
----
-
-Download and use this README for your project!
-
